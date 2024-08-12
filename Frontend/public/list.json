@@ -1,0 +1,200 @@
+[
+    
+    {
+        "id" : 1, 
+        "name" : "Science Ki Duniya",
+        "title" : "A good science book",
+        "category" : "Science",
+        "image" : "../images/science_ki_duniya.jpg"
+        
+    },
+    
+    {
+        "id" : 2, 
+        "name" : "Science Reporter",
+        "title" : "Reports about scientific researches",
+        "price" : 20,
+        "category" : "Science",
+        "image" : "../images/science_reporter.jpg"
+        
+    },
+    {
+        "id" : 3, 
+        "name" : "Vigyan Pragati",
+        "title" : "Tells in brief about science",
+        "price" : 20,
+        "category" : "Science",
+        "image" : "../images/vigyan_pragati.jpg"
+        
+    },
+    {
+        "id" : 4, 
+        "name" : "JSIR",
+        "title" : "Journal of Scientific & Industrial Research",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/JSIR.png"
+        
+    },
+    {
+        "id" : 5, 
+        "name" : "IJC",
+        "title" : "Indian Journal of Chemistry",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/IJC-A.png"
+        
+    },
+    {
+        "id" : 6, 
+        "name" : "IJEB",
+        "title" : "Indian Journal of Experimental Biology",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/IJEB.png"
+        
+    },
+    {
+        "id" : 7, 
+        "name" : "IJPAP",
+        "title" : "Indian Journal of Pure and Applied Physics",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/IJPAP.png"
+        
+    },
+    {
+        "id" : 8, 
+        "name" : "IJGMS",
+        "title" : "Indian Journal of Geo Marine Sciences",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/IJMS.png"
+        
+    },
+    {
+        "id" : 9, 
+        "name" : "IJCT",
+        "title" : "Indian Journal of Chemical Technology",
+        "price" : 20,
+        "category" : "Research Journal",
+        "image" : "../images/IJCT.png"
+        
+    },
+    
+    {
+        "id" : 10, 
+        "name" : "IJEMS",
+        "title" : "Indian Journal of Engineering & Material Sciences",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/IJEMS.png"
+        
+    },
+    
+    {
+        "id" : 11, 
+        "name" : "IJBB",
+        "title" : "Indian Journal of Biochemistry and Biophysics",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/IJBB.png"
+        
+    },
+    
+    {
+        "id" : 12, 
+        "name" : "JIPR",
+        "title" : "Journal of Intellectual Property Rights",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/JIPR.png"
+        
+    },
+    
+    {
+        "id" : 13, 
+        "name" : "IJFTR",
+        "title" : "Indian Journal of Fibre & Textile Research",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/IJFTR.png"
+        
+    },
+    
+    {
+        "id" : 14, 
+        "name" : "IJTK",
+        "title" : "Indian Journal of Traditional Knowledge",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/IJTK.png"
+        
+    },
+    {
+        "id" : 15, 
+        "name" : "IJNPR",
+        "title" : "Indian Journal of Natural Products and Resources",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/IJNPR.png"
+        
+    },
+    
+    {
+        "id" : 16, 
+        "name" : "ALIS",
+        "title" : "Analls of Library and Information Studies",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/ALIS.png"
+        
+    },
+    
+    {
+        "id" : 17, 
+        "name" : "BVAAP",
+        "title" : "Bhartiye Vigyanik & Ayodhogik Anusanghan Patrika",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/BVAAP.png"
+        
+    },
+    
+    {
+        "id" : 18, 
+        "name" : "JST",
+        "title" : "Journal of Scientific Temper",
+        "price" : 20,
+        "category" : "Journal",
+        "image" : "../images/JST.png"
+        
+    },
+    
+    
+    {
+        "id" : 19, 
+        "name" : "CSIR Samachar",
+        "title" : "News for CSIR",
+        "price" : 20,
+        "category" : "News",
+        "image" : "../images/csirsamachar.png"
+        
+    },
+    
+    {
+        "id" : 20, 
+        "name" : "CSIR News",
+        "title" : "News for CSIR",
+        "price" : 20,
+        "category" : "News",
+        "image" : "../images/csirnews.png"
+        
+    }
+    
+
+    
+
+
+
+]
